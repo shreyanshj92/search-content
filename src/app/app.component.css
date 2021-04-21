@@ -1,0 +1,27 @@
+.search {
+    margin-right: 10px;
+}
+
+.card {
+    background-color: azure;
+    border: 1px solid hsl(0, 0%, 38%);
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px rgb(214, 213, 213);
+    padding: 10px 20px;
+    margin: 5px 10px;
+    width: 50%;
+    text-align: center;
+}
+
+.serial-number {
+    position: absolute;
+    left: 2%;
+    border-radius: 25%;
+    background-color: aqua;
+    box-shadow: 2px 2px 2px 2px rgb(211, 210, 210);
+    padding: 5px;
+}
+
+div {
+    margin-top: 5px;
+}
